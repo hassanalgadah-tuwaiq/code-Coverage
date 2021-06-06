@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "B1OUgcjl4HfKtMCUBy0+tm+H0N2tvEaIR2uWNm1fuxZpNfCPQx8fjxHzkn/u5bpQS07BiRx/7tisABLcpQAt/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hassan\\Desktop\\.Net projects\\Project01_ASP.NET_MVC\\CodeCoverage\\CodeCoverage\\CodeCoverage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hassan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Hassan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\Hassan\Desktop\.Net projects\Project01_ASP.NET_MVC\CodeCoverage\CodeCoverage\bin\Debug\netcoreapp3.1\CodeCoverage.exe
+C:\Users\Hassan\Desktop\.Net projects\Project01_ASP.NET_MVC\CodeCoverage\CodeCoverage\bin\Debug\netcoreapp3.1\CodeCoverage.deps.json
+C:\Users\Hassan\Desktop\.Net projects\Project01_ASP.NET_MVC\CodeCoverage\CodeCoverage\bin\Debug\netcoreapp3.1\CodeCoverage.runtimeconfig.json
+C:\Users\Hassan\Desktop\.Net projects\Project01_ASP.NET_MVC\CodeCoverage\CodeCoverage\bin\Debug\netcoreapp3.1\CodeCoverage.runtimeconfig.dev.json
+C:\Users\Hassan\Desktop\.Net projects\Project01_ASP.NET_MVC\CodeCoverage\CodeCoverage\bin\Debug\netcoreapp3.1\CodeCoverage.dll
+C:\Users\Hassan\Desktop\.Net projects\Project01_ASP.NET_MVC\CodeCoverage\CodeCoverage\bin\Debug\netcoreapp3.1\CodeCoverage.pdb
+C:\Users\Hassan\Desktop\.Net projects\Project01_ASP.NET_MVC\CodeCoverage\CodeCoverage\obj\Debug\netcoreapp3.1\CodeCoverage.csprojAssemblyReference.cache
+C:\Users\Hassan\Desktop\.Net projects\Project01_ASP.NET_MVC\CodeCoverage\CodeCoverage\obj\Debug\netcoreapp3.1\CodeCoverage.AssemblyInfoInputs.cache
+C:\Users\Hassan\Desktop\.Net projects\Project01_ASP.NET_MVC\CodeCoverage\CodeCoverage\obj\Debug\netcoreapp3.1\CodeCoverage.AssemblyInfo.cs
+C:\Users\Hassan\Desktop\.Net projects\Project01_ASP.NET_MVC\CodeCoverage\CodeCoverage\obj\Debug\netcoreapp3.1\CodeCoverage.csproj.CoreCompileInputs.cache
+C:\Users\Hassan\Desktop\.Net projects\Project01_ASP.NET_MVC\CodeCoverage\CodeCoverage\obj\Debug\netcoreapp3.1\CodeCoverage.dll
+C:\Users\Hassan\Desktop\.Net projects\Project01_ASP.NET_MVC\CodeCoverage\CodeCoverage\obj\Debug\netcoreapp3.1\CodeCoverage.pdb
+C:\Users\Hassan\Desktop\.Net projects\Project01_ASP.NET_MVC\CodeCoverage\CodeCoverage\obj\Debug\netcoreapp3.1\CodeCoverage.genruntimeconfig.cache
